@@ -1,4 +1,4 @@
-package accounts
+package si_bank
 
 // import (
 // 	"context"
